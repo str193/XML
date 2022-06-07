@@ -1,1 +1,18 @@
-
+<roоt>
+  <item>
+    <key>Name</key>
+    <value>Starovoitov Ivan Alexsandrovich</value>
+  </item>
+  <item>
+    <key>age</key>
+    <value>28</value>
+  </item>
+  <item>
+    <key>pets</key>
+    <value>none</value>
+  </item>
+  <item>
+    <key>salary</key>
+    <value>999</value>
+  </item>
+</roоt>

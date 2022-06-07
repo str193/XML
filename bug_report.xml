@@ -1,6 +1,31 @@
 <bag>
   <item>
     <key>summary</key>
-    <value>nothing works</value>
+    <value>ubmit button not working</value>
+  </item>
+  <item>
+    <key>description</key>
+    <value>An error occurs while sending a message</value>
+  </item>
+  <item>
+    <key>steps</key>
+    <value>1. Write a message 2. Press the send button</value>
+  </item>
+  <item>
+    <key>result</key>
+    <value>An error message appears</value>
+  </item>
+  <item>
+    <key>waiting</key>
+    <value>The message is sent to the recipient</value>
+  </item>
+  <item>
+    <key>severity</key>
+    <value>minor</value>
+  </item>
+  <item>
+    <key>priority</key>
+    <value>low</value>
   </item>
 </bag>
+
